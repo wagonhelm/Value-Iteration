@@ -7,15 +7,15 @@ Here are some images showing state values after convergence, I modified the valu
 
 Gamma 1
 -------
-<img src="images/gamma1.png">
+<img src="images/gamma1.png" height="345" width="300">
 <img src="images/gamma1.gif">
 
 Gamma 0.999
 -------
-<img src="images/gamma99.png">
+<img src="images/gamma99.png" height="345" width="300">
 <img src="images/gamma99.gif">
 
 Gamma 0.95
 -------
-<img src="images/gamma95.png">
+<img src="images/gamma95.png" height="345" width="300">
 <img src="images/gamma95.gif">
