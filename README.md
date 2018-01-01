@@ -5,6 +5,8 @@ State Value Iteration assumes that the MDP is known and then in sweeps it will u
 
 Here are some images showing state values after convergence, I modified the value of the final state [8,8] to be the max of all value states so that the graph looks nicer.  All terminal states have zero value.
 
+See notebook for full code.
+
 Gamma 1
 -------
 <img src="images/gamma1.png" height="345" width="300">
